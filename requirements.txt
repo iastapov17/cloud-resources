@@ -1,0 +1,10 @@
+pydantic
+pydantic-settings
+httpx
+pydantic[dotenv]
+numpy
+injector
+pandas
+pmdarima
+PuLP
+matplotlib
